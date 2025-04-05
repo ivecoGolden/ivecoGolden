@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ivecoGolden
-- 👀 I’m interested in Solidity, React, iOS
-- 🌱 I’m currently learning react
+- 👀 I’m interested in Solidity, React, iOS(OC, Swift), Android(Kotlin), python
+- 🌱 I’m currently learning python
 - 📫 ivecogoldencup@gmail.com
